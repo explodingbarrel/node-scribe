@@ -7,7 +7,7 @@
     "url": "git://github.com/Applifier/node-scribe"
   },
   "dependencies": {
-    "thrift" : "0.7.0"
+    "thrift" : "git+https://github.com/explodingbarrel/thrift.git#24838435a763b858cc8b278238e874cf77d9d598"
   },
   "author": "Applifier <opensource@applifier.com>"
 }
